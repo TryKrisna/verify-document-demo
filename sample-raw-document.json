@@ -1,0 +1,47 @@
+{
+    "id": "8f6d0f12-eb4a-4799-a3ec-7686b000537a",
+    " recipient": {
+        "id": "85cd0376",
+        "name": "Try Krisna",
+        "address":"Phnom Penh Cambodia",
+        "image":"https://scontent.fpnh2-1.fna.fbcdn.net/v/t39.30808-6/321452663_1123086288382565_7137285097862064526_n.jpg?stp=dst-jpg_s206x206&_nc_cat=110&ccb=1-7&_nc_sid=da31f3&_nc_eui2=AeH-INcNpz6DSrRIVXLSx2bJaioWXxGa3SVqKhZfEZrdJeHFL8gWgZ4QT6JNH0_roJ9v6gI6goVCZVD09TMmV04S&_nc_ohc=J6daFzDFQ0cAX-5aznl&_nc_oc=AQkKHqzf-RgYjmaC0M1LsaIWyqq0qPGg-K6R0kc2JR-NrXDezw5veLXyCZZfjuZ3Uc4&_nc_zt=23&_nc_ht=scontent.fpnh2-1.fna&oh=00_AfBHBXxRAiLRuKF7jCie73diZ7hCQ7w9zaPWorAspdZPNA&oe=641C2812"
+    },
+    "asset":{
+        "assetType":"MOTORCYCLE",
+        "type":"female",
+        "brand":"HONDA PCX",
+        "Color":"ស",
+        "NumberPlate":"Phnom Penh 1HC- 0368",
+        "engineNo":"KE20E4547212",
+        "chassisNo":"NIL",
+        "yearOfMFG":"2018",
+        "emptyFiel":"",
+        "frameNo":"MLHKF2085J5554721",
+        "hPower":"150CC",
+        "noOfAxles":"NIL",
+        "CYLINDERSDISP":"150",
+        "image":"https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20230206060606_lambo_v12.jpg&w=700&q=90&c=1"
+    },
+    "owner": {
+        "id": "85cd0376",
+        "name": "Try Krisna",
+        "address":"Phnom Penh Cambodia",
+        "nationalIdCard":"123456789",
+        "image":"https://scontent.fpnh2-1.fna.fbcdn.net/v/t39.30808-6/321452663_1123086288382565_7137285097862064526_n.jpg?stp=dst-jpg_s206x206&_nc_cat=110&ccb=1-7&_nc_sid=da31f3&_nc_eui2=AeH-INcNpz6DSrRIVXLSx2bJaioWXxGa3SVqKhZfEZrdJeHFL8gWgZ4QT6JNH0_roJ9v6gI6goVCZVD09TMmV04S&_nc_ohc=J6daFzDFQ0cAX-5aznl&_nc_oc=AQkKHqzf-RgYjmaC0M1LsaIWyqq0qPGg-K6R0kc2JR-NrXDezw5veLXyCZZfjuZ3Uc4&_nc_zt=23&_nc_ht=scontent.fpnh2-1.fna&oh=00_AfBHBXxRAiLRuKF7jCie73diZ7hCQ7w9zaPWorAspdZPNA&oe=641C2812"
+    },
+    "issuers": [
+        {
+          "name": "Krisna",
+          "tokenRegistry": "0xbA8de38c7A16c0531Cc93Be73aEab6fDb3a607Ea",
+          "identityProof": {
+            "type": "DNS-TXT",
+            "location": "krisna.lol"
+          }
+        }
+      ],
+    "$template": {
+        "name": "NUMBER_PLATE_TEMPLATE",
+        "type": "EMBEDDED_RENDERER",
+        "url": "https://deft-dango-261cf4.netlify.app/"
+    }
+}
