@@ -1,0 +1,56 @@
+{
+  "version": "https://schema.openattestation.com/2.0/schema.json",
+  "data": {
+    "id": "497ff826-98c1-4992-a09b-d5e0fb3e9dff:string:SERIAL_NUMBER_123",
+    "$template": {
+      "name": "64005be1-62a8-47fe-b807-8f2215b64666:string:NUMBER_PLATE_TEMPLATE",
+      "type": "e793a639-f2b4-4923-b3b7-00e4164446d7:string:EMBEDDED_RENDERER",
+      "url": "94c0f2ec-89c4-420e-9457-c026238d18ad:string:https://deft-dango-261cf4.netlify.app/"
+    },
+    "asset": {
+      "assetType": "d45dcbbd-43f7-49fb-a455-b0d49ead1bf5:string:1MOTORCYCLE",
+      "type": "51851f18-9669-4694-a630-5c68f33c1860:string:1female",
+      "brand": "43f020a9-583d-46cd-8fd2-b7fcc187dcc4:string:1HONDA PCX",
+      "Color": "5ee7a779-ea30-4374-9a4b-de674de5d2ba:string:1ស",
+      "NumberPlate": "fae8662a-f526-4bb0-9517-35c7326795b6:string:1Phnom Penh 1HC- 0368",
+      "engineNo": "9f44a9aa-3317-4d3e-a0d5-a67aa96e92e5:string:1KE20E4547212",
+      "chassisNo": "168816e9-c0f6-413f-b2e9-b3d67ac39fb4:string:1NIL",
+      "yearOfMFG": "84fd7d6d-4149-41cb-ba19-cca2ce902b92:string:12018",
+      "emptyFiel": "db4af7d0-7902-4e2c-bbef-1301a765179f:string:1",
+      "frameNo": "5fccb635-19f9-4e5f-95ad-a8b40c1097c1:string:1MLHKF2085J5554721",
+      "hPower": "9a3b6d88-143e-419f-bed3-a048fbe50bf0:string:1150CC",
+      "noOfAxles": "f960dfa9-738e-4bf4-b3f7-f76e1a541151:string:1NIL",
+      "CYLINDERSDISP": "aa13ae5b-6740-45c9-9869-c6fe4fc387bc:string:1150",
+      "image": "10169dd7-df0e-4566-90fc-60f6c6f9758e:string:https://gray-wmctv-prod.cdn.arcpublishing.com/resizer/nsgGaJW2V-VSsC4fl6Xu6vYVTC8=/800x600/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5V62QS6ZHNF6DBA7656F3RS4UY.jpg"
+    },
+    "owner": {
+      "id": "2ba83896-c7e2-48f3-8ad2-d81e2f92aa02:string:85cd0376",
+      "name": "10dca1c0-d4ec-4600-a8b3-792c88e2fdd5:string:SoPheap",
+      "address": "9ad847b7-ea3b-4447-96b0-0324e630cac5:string:DGC  Phnom Penh Cambodia",
+      "nationalIdCard": "c08fe416-990b-495e-94b2-7b6f4915ddee:string:2365553",
+      "image": "c0405d7e-ad09-4482-ac85-4b2b86e0f212:string:https://media.istockphoto.com/id/1351147752/photo/studio-portrait-of-attractive-20-year-old-bearded-man.jpg?s=612x612&w=0&k=20&c=-twL1NKKad6S_EPrGSniewjh6776A0Ju27ExMh7v_kI="
+    },
+    "issuers": [
+      {
+        "name": "7936dd9f-44f9-4973-9207-6981134ceb70:string:KRISNA",
+        "documentStore": "b316bd5a-b694-45a2-8d7c-64159e81dbe8:string:0x80CEdfee56511CAa371E1173a03A27228bEE661A",
+        "identityProof": {
+          "type": "168f8736-e1f8-4380-958c-600e67a24246:string:DNS-TXT",
+          "location": "ca882318-0edc-44db-8307-1ea9d5dac1e4:string:krisna.lol"
+        }
+      }
+    ],
+    "recipient": {
+      "name": "726a6d4d-fae7-4aef-992d-4aac40bbd5b9:string:Demo prosentation",
+      "address": "e9a20ed5-11d7-4d9a-99c0-6e20759f962c:string:PP tppt"
+    }
+  },
+  "signature": {
+    "type": "SHA3MerkleProof",
+    "targetHash": "89037436d390d8b8ead2bd72b5db410de245302dee4bf933e4bb5ff40c874ee0",
+    "proof": [
+      "faba9250002c88a2fb5796f1b0166e9b269d1be9af4f25ef0df851e4db4bcc02"
+    ],
+    "merkleRoot": "41a9d999b360128e0ccbbee453c22a67a4e4620d1eb91c6d4276051ac990cd54"
+  }
+}
